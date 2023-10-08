@@ -1,2 +1,2 @@
-# WeatherAppPythonProject
+# WeatherAppProject
 
